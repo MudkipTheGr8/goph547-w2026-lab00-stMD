@@ -1,2 +1,7 @@
-# goph547-w2026-lab00-stMD
-Geophysics 547 Introduction Lab 00
+# GOPH 547
+*Semester:* W2026
+*Instructor:* B. Karchewski
+*Author(s):* <Matthew Davidson>
+An example repository setup for a simple Python package.
+Includes examples using Numpy arrays and Matplotlib for
+visulization.
