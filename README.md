@@ -11,8 +11,8 @@ For part 0B there is a driver script that shows NumPy array operations and image
 1.) Downloading the Repository
  Clone this to your local machine by using:
 
-git clone <https://github.com/MudkipTheGr8/goph547-w2026-lab00-stMD>
-cd <goph547-w2026-lab00-stMD>
+git clone https://github.com/MudkipTheGr8/goph547-w2026-lab00-stMD
+cd goph547-w2026-lab00-stMD
 
 2.) Setting Up the Virtual Environment/ Installing the Package
 
