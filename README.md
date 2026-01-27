@@ -5,7 +5,7 @@
 
 Lab 0A and 0B
 Includes examples using Numpy arrays and Matplotlib for
-visulization for part 0A.
+visualization for part 0A.
 For part 0B there is a driver script that shows NumPy array operations and image processing through using Matplotlib.
 
 1.) Downloading the Repository
@@ -38,8 +38,8 @@ pip install -e.
 
 The script follows these tasks listed below:
 - Creates arrays of ones and NaNs
-- Generates a column vector of odd numbers and comuptes its sum
-- Defines matricies and performs:
+- Generates a column vector of odd numbers and computes its sum
+- Defines matrices and performs:
     - element-wise multiplication
     - matrix multiplication
     - cross products
