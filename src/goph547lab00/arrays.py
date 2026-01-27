@@ -1,3 +1,5 @@
+# Lab 0A
+# Matthew Davidson UCID: 30182729
 import numpy as np
 
 def square_ones(n):
